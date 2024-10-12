@@ -1,0 +1,452 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1312317799">
+<g id="patternt">
+<g id="23">
+<rect id="Rectangle 6" width="160" height="160" transform="matrix(0 1 1 0 160 0)" fill="#9D9D9D"/>
+</g>
+<g id="1">
+<rect id="Rectangle 6_2" width="160" height="160" transform="matrix(1 0 0 -1 0 640)" fill="#9D9D9D"/>
+<rect id="Rectangle 7" width="80" height="160" transform="matrix(1 0 0 -1 0 640)" fill="#171717"/>
+<rect id="Rectangle 8" width="80" height="160" transform="matrix(1 0 0 -1 0 640)" fill="#171717"/>
+</g>
+<g id="10">
+<rect id="Rectangle 6_3" width="160" height="160" transform="matrix(0 -1 -1 0 480 480)" fill="#9D9D9D"/>
+<path id="Rectangle 8_2" d="M320 480V320L480 480H320Z" fill="#171717"/>
+</g>
+<g id="3">
+<rect id="Rectangle 6_4" width="160" height="160" transform="matrix(0 -1 -1 0 480 640)" fill="#9D9D9D"/>
+<path id="Rectangle 8_3" d="M320 640V480L480 640H320Z" fill="#313131"/>
+</g>
+<g id="24">
+<g id="Group 7">
+<rect id="Rectangle 6_5" x="480" width="160" height="160" transform="rotate(90 480 0)" fill="#313131"/>
+</g>
+<path id="Ellipse 12" d="M480 0.000471115C480 21.012 475.861 41.8177 467.821 61.2298C459.78 80.6419 447.994 98.2801 433.137 113.137C418.28 127.995 400.641 139.78 381.229 147.821C361.817 155.862 341.012 160 320 160L320 0.000471115H480Z" fill="#797979"/>
+</g>
+<g id="2">
+<g id="Group 7_2">
+<rect id="Rectangle 6_6" width="160" height="160" transform="matrix(1 0 0 -1 160 640.001)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_2" d="M160 640C181.011 640 201.817 635.861 221.229 627.82C240.641 619.78 258.28 607.994 273.137 593.137C287.994 578.279 299.78 560.641 307.821 541.229C315.861 521.817 320 501.011 320 480L160 480L160 640Z" fill="#9D9D9D"/>
+</g>
+<g id="21">
+<g id="Group 7_3">
+<rect id="Rectangle 6_7" width="160" height="160" transform="matrix(0 1 1 0 960 160)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_3" d="M960 160C960 181.012 964.139 201.818 972.179 221.23C980.22 240.642 992.006 258.28 1006.86 273.137C1021.72 287.995 1039.36 299.78 1058.77 307.821C1078.18 315.862 1098.99 320 1120 320L1120 160H960Z" fill="#9D9D9D"/>
+</g>
+<g id="7">
+<rect id="Rectangle 6_8" x="960" y="640" width="160" height="160" transform="rotate(-90 960 640)" fill="#313131"/>
+<rect id="Rectangle 7_2" x="1040" y="504" width="80" height="80" transform="rotate(45 1040 504)" fill="#797979"/>
+</g>
+<g id="16">
+<g id="Group 7_4">
+<rect id="Rectangle 6_9" width="160" height="160" transform="matrix(0 -1 -1 0 320 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_4" d="M320 320C320 298.989 315.861 278.183 307.821 258.771C299.78 239.359 287.994 221.72 273.137 206.863C258.28 192.006 240.641 180.22 221.229 172.18C201.817 164.139 181.012 160 160 160L160 320H320Z" fill="#797979"/>
+</g>
+<g id="15">
+<g id="Group 7_5">
+<rect id="Rectangle 6_10" y="320" width="160" height="160" transform="rotate(-90 0 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_5" d="M-1.45912e-05 320C-1.45912e-05 298.989 4.1385 278.183 12.1793 258.771C20.22 239.359 32.0055 221.72 46.8629 206.863C61.7203 192.006 79.3585 180.22 98.7706 172.18C118.183 164.139 138.988 160 160 160L160 320H-1.45912e-05Z" fill="#171717"/>
+</g>
+<g id="22">
+<rect id="Rectangle 6_11" width="160" height="160" transform="matrix(0 -1 -1 0 160 160)" fill="#797979"/>
+<ellipse id="Ellipse 7" cx="79.9946" cy="79.9995" rx="40" ry="40" fill="#9D9D9D"/>
+</g>
+<g id="6">
+<rect id="Rectangle 6_12" width="160" height="160" transform="matrix(0 -1 -1 0 960 640)" fill="#797979"/>
+<g id="Group 918">
+<rect id="Rectangle 9" width="8" height="160" transform="matrix(1 0 0 -1 804 640)" fill="#171717"/>
+<rect id="Rectangle 10" width="8" height="160" transform="matrix(1 0 0 -1 820 640)" fill="#171717"/>
+<rect id="Rectangle 11" width="8" height="160" transform="matrix(1 0 0 -1 836 640)" fill="#171717"/>
+<rect id="Rectangle 12" width="8" height="160" transform="matrix(1 0 0 -1 852 640)" fill="#171717"/>
+<rect id="Rectangle 13" width="8" height="160" transform="matrix(1 0 0 -1 867.999 640)" fill="#171717"/>
+<rect id="Rectangle 14" width="8" height="160" transform="matrix(1 0 0 -1 884 640)" fill="#171717"/>
+<rect id="Rectangle 15" width="8" height="160" transform="matrix(1 0 0 -1 900 640)" fill="#171717"/>
+<rect id="Rectangle 16" width="8" height="160" transform="matrix(1 0 0 -1 916 640)" fill="#171717"/>
+<rect id="Rectangle 17" width="8" height="160" transform="matrix(1 0 0 -1 932 640)" fill="#171717"/>
+<rect id="Rectangle 18" width="8" height="160" transform="matrix(1 0 0 -1 947.999 640)" fill="#171717"/>
+</g>
+</g>
+<g id="18">
+<rect id="Rectangle 6_13" width="160" height="160" transform="matrix(0 -1 -1 0 640 320)" fill="#797979"/>
+<ellipse id="Ellipse 7_2" cx="560" cy="239.999" rx="60" ry="60" fill="#9D9D9D"/>
+</g>
+<g id="28">
+<rect id="Rectangle 6_14" width="160" height="160" transform="matrix(0 -1 -1 0 1120 160)" fill="#797979"/>
+<ellipse id="Ellipse 7_3" cx="1040" cy="79.9991" rx="60" ry="60" fill="#9D9D9D"/>
+</g>
+<g id="27">
+<rect id="Rectangle 6_15" width="160" height="160" transform="matrix(0 -1 -1 0 960 160)" fill="#171717"/>
+<ellipse id="Ellipse 7_4" cx="880" cy="79.9991" rx="60" ry="60" fill="#9D9D9D"/>
+</g>
+<g id="17">
+<rect id="Rectangle 6_16" x="320" y="320" width="160" height="160" transform="rotate(-90 320 320)" fill="#313131"/>
+<g id="Group 919">
+<ellipse id="Ellipse 13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 19" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 20" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 447.999 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 21" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 309.6)" fill="#171717"/>
+<ellipse id="Ellipse 13_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 14_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 15_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 16_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 17_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 18_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 19_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 20_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 21_2" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 292.799)" fill="#171717"/>
+<ellipse id="Ellipse 13_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 276)" fill="#171717"/>
+<ellipse id="Ellipse 14_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 276)" fill="#171717"/>
+<ellipse id="Ellipse 15_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 276)" fill="#171717"/>
+<ellipse id="Ellipse 16_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 276)" fill="#171717"/>
+<ellipse id="Ellipse 17_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 276)" fill="#171717"/>
+<ellipse id="Ellipse 18_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 276)" fill="#171717"/>
+<ellipse id="Ellipse 19_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 276)" fill="#171717"/>
+<ellipse id="Ellipse 20_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 276)" fill="#171717"/>
+<ellipse id="Ellipse 21_3" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 276)" fill="#171717"/>
+<ellipse id="Ellipse 13_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_4" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 259.2)" fill="#171717"/>
+<ellipse id="Ellipse 13_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 14_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 15_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 16_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 17_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 18_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 19_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 20_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 21_5" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 242.4)" fill="#171717"/>
+<ellipse id="Ellipse 13_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 14_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 15_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 16_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 17_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 18_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 19_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 20_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 21_6" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 225.6)" fill="#171717"/>
+<ellipse id="Ellipse 13_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 14_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 15_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 16_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 17_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 18_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 19_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 20_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 21_7" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 208.8)" fill="#171717"/>
+<ellipse id="Ellipse 13_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 14_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 15_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 16_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 17_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 18_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 19_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 20_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 21_8" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 191.999)" fill="#171717"/>
+<ellipse id="Ellipse 13_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 330.4 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 347.2 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 364 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 380.8 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 397.6 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 414.4 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 431.2 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 448 175.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_9" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 464.8 175.2)" fill="#171717"/>
+</g>
+</g>
+<g id="14">
+<rect id="Rectangle 6_17" x="960" y="480" width="160" height="160" transform="rotate(-90 960 480)" fill="#797979"/>
+<g id="Group 919_2">
+<ellipse id="Ellipse 13_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 14_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 15_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 16_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 17_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 18_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 19_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 20_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 21_10" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 469.601)" fill="#171717"/>
+<ellipse id="Ellipse 13_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 14_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 15_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 16_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 17_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 18_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 19_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 20_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 21_11" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 452.801)" fill="#171717"/>
+<ellipse id="Ellipse 13_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 436)" fill="#171717"/>
+<ellipse id="Ellipse 14_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 436)" fill="#171717"/>
+<ellipse id="Ellipse 15_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 436)" fill="#171717"/>
+<ellipse id="Ellipse 16_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 436)" fill="#171717"/>
+<ellipse id="Ellipse 17_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 436)" fill="#171717"/>
+<ellipse id="Ellipse 18_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 436)" fill="#171717"/>
+<ellipse id="Ellipse 19_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 436)" fill="#171717"/>
+<ellipse id="Ellipse 20_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 436)" fill="#171717"/>
+<ellipse id="Ellipse 21_12" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 436)" fill="#171717"/>
+<ellipse id="Ellipse 13_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_13" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 419.2)" fill="#171717"/>
+<ellipse id="Ellipse 13_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 14_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 15_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 16_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 17_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 18_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 19_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 20_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 21_14" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 402.401)" fill="#171717"/>
+<ellipse id="Ellipse 13_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 14_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 15_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 16_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 17_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 18_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 19_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 20_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 21_15" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 385.6)" fill="#171717"/>
+<ellipse id="Ellipse 13_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 14_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 15_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 16_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 17_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 18_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 19_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 20_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 21_16" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 368.8)" fill="#171717"/>
+<ellipse id="Ellipse 13_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 352)" fill="#171717"/>
+<ellipse id="Ellipse 14_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 352)" fill="#171717"/>
+<ellipse id="Ellipse 15_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 352)" fill="#171717"/>
+<ellipse id="Ellipse 16_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 352)" fill="#171717"/>
+<ellipse id="Ellipse 17_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 352)" fill="#171717"/>
+<ellipse id="Ellipse 18_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 352)" fill="#171717"/>
+<ellipse id="Ellipse 19_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 352)" fill="#171717"/>
+<ellipse id="Ellipse 20_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 352)" fill="#171717"/>
+<ellipse id="Ellipse 21_17" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 352)" fill="#171717"/>
+<ellipse id="Ellipse 13_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 970.4 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 987.2 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1004 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1020.8 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1037.6 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1054.4 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1071.2 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1088 335.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_18" cx="2.4" cy="2.4" rx="2.4" ry="2.4" transform="matrix(1 0 0 -1 1104.8 335.2)" fill="#171717"/>
+</g>
+</g>
+<g id="20">
+<rect id="Rectangle 6_18" x="960" y="160" width="160" height="160" transform="rotate(90 960 160)" fill="#9D9D9D"/>
+<rect id="Rectangle 7_3" x="960" y="160" width="79.9999" height="160" transform="rotate(90 960 160)" fill="#313131"/>
+<rect id="Rectangle 8_4" x="960" y="160" width="79.9999" height="160" transform="rotate(90 960 160)" fill="#313131"/>
+</g>
+<g id="25">
+<rect id="Rectangle 6_19" x="640" width="160" height="160" transform="rotate(90 640 0)" fill="#9D9D9D"/>
+<path id="Rectangle 8_5" d="M480 0V160L640 0L480 0Z" fill="#171717"/>
+</g>
+<g id="11">
+<rect id="Rectangle 6_20" x="480" y="320" width="160" height="160" fill="#797979"/>
+</g>
+<g id="26">
+<rect id="Rectangle 6_21" width="160" height="160" transform="matrix(0 1 1 0 640 0)" fill="#171717"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M783.031 160H794.343L640 5.65733V16.9699L783.031 160ZM656.971 0.000473022H645.657L800 154.344V143.029L656.971 0.000473022ZM668.285 0.000473022H679.598L800 120.402V131.715L668.285 0.000473022ZM702.226 0.000473022H690.912L800 109.089V97.7745L702.226 0.000473022ZM713.54 0.000473022H724.852L800 75.1483V86.4608L713.54 0.000473022ZM747.48 0.000473022H736.166L800 63.8345V52.5205L747.48 0.000473022ZM758.794 0.000473022H770.108L800 29.8928V41.2068L758.794 0.000473022ZM792.736 0.000473022H781.421L800 18.5791V7.26456L792.736 0.000473022ZM771.717 160H760.402L640 39.5981V28.2836L771.717 160ZM737.775 160H749.089L640 50.9118V62.2259L737.775 160ZM726.461 160H715.147L640 84.8531V73.5396L726.461 160ZM692.52 160H703.834L640 96.1668V107.481L692.52 160ZM681.206 160H669.892L640 130.108V118.795L681.206 160ZM647.265 160H658.579L640 141.422V152.735L647.265 160Z" fill="#313131"/>
+</g>
+<g id="9">
+<rect id="Rectangle 6_22" width="160" height="160" transform="matrix(0 1 1 0 160 320)" fill="#171717"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M303.029 479.999H314.342L160 325.658V336.971L303.029 479.999ZM176.97 320H165.656L320 474.344V463.029L176.97 320ZM188.284 320H199.597L320 440.402V451.715L188.284 320ZM222.224 320H210.911L320 429.089V417.775L222.224 320ZM233.538 320H244.851L320 395.148V406.461L233.538 320ZM267.479 320H256.165L320 383.835V372.52L267.479 320ZM278.793 320H290.107L320 349.892V361.207L278.793 320ZM312.734 320H301.421L320 338.579V327.265L312.734 320ZM291.715 479.999H280.4L160 359.599V348.284L291.715 479.999ZM257.773 479.999H269.087L160 370.913V382.226L257.773 479.999ZM246.46 479.999H235.147L160 404.853V393.54L246.46 479.999ZM212.519 479.999H223.833L160 416.166V427.48L212.519 479.999ZM201.206 479.999H189.891L160 450.108V438.794L201.206 479.999ZM167.264 479.999H178.578L160 461.422V472.736L167.264 479.999Z" fill="#797979"/>
+</g>
+<g id="4">
+<g id="Group 7_6">
+<rect id="Rectangle 6_23" x="480" y="640" width="160" height="160" transform="rotate(-90 480 640)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_6" d="M480 639.999C480 618.988 484.139 598.182 492.179 578.77C500.22 559.358 512.006 541.72 526.863 526.862C541.72 512.005 559.359 500.219 578.771 492.179C598.183 484.138 618.988 479.999 640 479.999L640 639.999H480Z" fill="#9D9D9D"/>
+</g>
+<g id="19">
+<rect id="Rectangle 6_24" x="800" y="160" width="160" height="160" transform="rotate(90 800 160)" fill="#313131"/>
+<rect id="Rectangle 7_4" x="720" y="268" width="40" height="40" transform="rotate(-135 720 268)" fill="#797979"/>
+</g>
+<g id="12">
+<g id="Group 7_7">
+<rect id="Rectangle 6_25" width="160" height="160" transform="matrix(0 1 1 0 640 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_7" d="M640 320C640 341.011 644.139 361.817 652.179 381.229C660.22 400.641 672.006 418.279 686.863 433.137C701.72 447.994 719.359 459.779 738.771 467.82C758.183 475.861 778.988 479.999 800 479.999L800 320H640Z" fill="#797979"/>
+</g>
+<g id="8">
+<g id="Group 7_8">
+<rect id="Rectangle 6_26" width="160" height="160" transform="matrix(0 1 1 0 0 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_8" d="M-1.45912e-05 320C-1.45912e-05 341.011 4.1385 361.817 12.1793 381.229C20.22 400.641 32.0055 418.279 46.8629 433.137C61.7203 447.994 79.3585 459.779 98.7706 467.82C118.183 475.861 138.988 479.999 160 479.999L160 320H-1.45912e-05Z" fill="#171717"/>
+</g>
+<g id="29">
+<rect id="Rectangle 6_27" width="160" height="160" transform="matrix(-1 0 0 1 1280 -0.00012207)" fill="#9D9D9D"/>
+<rect id="Rectangle 7_5" width="80" height="160" transform="matrix(-1 0 0 1 1280 -0.00012207)" fill="#171717"/>
+<rect id="Rectangle 8_6" width="80" height="160" transform="matrix(-1 0 0 1 1280 -0.00012207)" fill="#171717"/>
+</g>
+<g id="30">
+<g id="Group 7_9">
+<rect id="Rectangle 6_28" x="1280" y="320" width="160" height="160" transform="rotate(90 1280 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_9" d="M1280 320C1280 341.011 1275.86 361.817 1267.82 381.229C1259.78 400.641 1247.99 418.279 1233.14 433.137C1218.28 447.994 1200.64 459.779 1181.23 467.82C1161.82 475.861 1141.01 479.999 1120 479.999L1120 320H1280Z" fill="#171717"/>
+</g>
+<g id="31">
+<rect id="Rectangle 6_29" width="160" height="160" transform="matrix(0 1 1 0 1120 480)" fill="#797979"/>
+<ellipse id="Ellipse 7_5" cx="1200.01" cy="560" rx="40" ry="40" transform="rotate(180 1200.01 560)" fill="#9D9D9D"/>
+</g>
+<g id="32">
+<g id="Group 7_10">
+<rect id="Rectangle 6_30" width="160" height="160" transform="matrix(0 -1 -1 0 1280 320)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_10" d="M1280 320C1280 298.989 1275.86 278.183 1267.82 258.771C1259.78 239.359 1247.99 221.72 1233.14 206.863C1218.28 192.006 1200.64 180.22 1181.23 172.18C1161.82 164.139 1141.01 160 1120 160L1120 320H1280Z" fill="#171717"/>
+</g>
+<g id="41">
+<g id="Group 7_11">
+<rect id="Rectangle 6_31" x="320" y="640" width="160" height="160" transform="rotate(90 320 640)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_11" d="M320 640C320 661.011 315.861 681.817 307.821 701.229C299.78 720.641 287.994 738.279 273.137 753.137C258.28 767.994 240.641 779.78 221.229 787.82C201.817 795.861 181.012 800 160 800L160 640H320Z" fill="#9D9D9D"/>
+</g>
+<g id="42">
+<g id="Group 7_12">
+<rect id="Rectangle 6_32" x="960" y="800" width="160" height="160" transform="rotate(-90 960 800)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_12" d="M960 800C960 778.989 964.139 758.183 972.179 738.771C980.22 719.359 992.006 701.72 1006.86 686.863C1021.72 672.006 1039.36 660.22 1058.77 652.179C1078.18 644.139 1098.99 640 1120 640L1120 800H960Z" fill="#797979"/>
+</g>
+<g id="43">
+<g id="Group 7_13">
+<rect id="Rectangle 6_33" width="160" height="160" transform="matrix(0 -1 -1 0 1280 800)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_13" d="M1280 800C1280 778.989 1275.86 758.183 1267.82 738.771C1259.78 719.359 1247.99 701.72 1233.14 686.863C1218.28 672.006 1200.64 660.22 1181.23 652.179C1161.82 644.139 1141.01 640 1120 640L1120 800H1280Z" fill="#171717"/>
+</g>
+<g id="44">
+<rect id="Rectangle 6_34" x="640" y="800" width="160" height="160" transform="rotate(-90 640 800)" fill="#797979"/>
+</g>
+<g id="45">
+<rect id="Rectangle 6_35" width="160" height="160" transform="matrix(0 -1 -1 0 960 800)" fill="#313131"/>
+<g id="Group 919_3">
+<ellipse id="Ellipse 13_19" cx="947.2" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 947.2 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_19" cx="930.4" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 930.4 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_19" cx="913.6" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 913.6 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_19" cx="896.8" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 896.8 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_19" cx="880" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 880 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_19" cx="863.2" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 863.2 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_19" cx="846.4" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 846.4 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_19" cx="829.601" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 829.601 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_19" cx="812.8" cy="787.2" rx="2.4" ry="2.4" transform="rotate(-180 812.8 787.2)" fill="#171717"/>
+<ellipse id="Ellipse 13_20" cx="947.2" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 947.2 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 14_20" cx="930.4" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 930.4 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 15_20" cx="913.6" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 913.6 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 16_20" cx="896.8" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 896.8 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 17_20" cx="880" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 880 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 18_20" cx="863.2" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 863.2 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 19_20" cx="846.4" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 846.4 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 20_20" cx="829.6" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 829.6 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 21_20" cx="812.8" cy="770.4" rx="2.4" ry="2.4" transform="rotate(-180 812.8 770.4)" fill="#171717"/>
+<ellipse id="Ellipse 13_21" cx="947.2" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 947.2 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 14_21" cx="930.4" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 930.4 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 15_21" cx="913.6" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 913.6 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 16_21" cx="896.8" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 896.8 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 17_21" cx="880" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 880 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 18_21" cx="863.2" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 863.2 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 19_21" cx="846.4" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 846.4 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 20_21" cx="829.6" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 829.6 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 21_21" cx="812.8" cy="753.6" rx="2.4" ry="2.4" transform="rotate(-180 812.8 753.6)" fill="#171717"/>
+<ellipse id="Ellipse 13_22" cx="947.2" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 947.2 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 14_22" cx="930.4" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 930.4 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 15_22" cx="913.6" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 913.6 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 16_22" cx="896.8" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 896.8 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 17_22" cx="880" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 880 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 18_22" cx="863.2" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 863.2 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 19_22" cx="846.4" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 846.4 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 20_22" cx="829.6" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 829.6 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 21_22" cx="812.8" cy="736.8" rx="2.4" ry="2.4" transform="rotate(-180 812.8 736.8)" fill="#171717"/>
+<ellipse id="Ellipse 13_23" cx="947.2" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 947.2 720)" fill="#171717"/>
+<ellipse id="Ellipse 14_23" cx="930.4" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 930.4 720)" fill="#171717"/>
+<ellipse id="Ellipse 15_23" cx="913.6" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 913.6 720)" fill="#171717"/>
+<ellipse id="Ellipse 16_23" cx="896.8" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 896.8 720)" fill="#171717"/>
+<ellipse id="Ellipse 17_23" cx="880" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 880 720)" fill="#171717"/>
+<ellipse id="Ellipse 18_23" cx="863.2" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 863.2 720)" fill="#171717"/>
+<ellipse id="Ellipse 19_23" cx="846.4" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 846.4 720)" fill="#171717"/>
+<ellipse id="Ellipse 20_23" cx="829.6" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 829.6 720)" fill="#171717"/>
+<ellipse id="Ellipse 21_23" cx="812.8" cy="720" rx="2.4" ry="2.4" transform="rotate(-180 812.8 720)" fill="#171717"/>
+<ellipse id="Ellipse 13_24" cx="947.2" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 947.2 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 14_24" cx="930.4" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 930.4 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 15_24" cx="913.6" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 913.6 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 16_24" cx="896.8" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 896.8 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 17_24" cx="880" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 880 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 18_24" cx="863.2" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 863.2 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 19_24" cx="846.4" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 846.4 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 20_24" cx="829.6" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 829.6 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 21_24" cx="812.8" cy="703.2" rx="2.4" ry="2.4" transform="rotate(-180 812.8 703.2)" fill="#171717"/>
+<ellipse id="Ellipse 13_25" cx="947.2" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 947.2 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 14_25" cx="930.4" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 930.4 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 15_25" cx="913.6" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 913.6 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 16_25" cx="896.8" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 896.8 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 17_25" cx="880" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 880 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 18_25" cx="863.2" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 863.2 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 19_25" cx="846.4" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 846.4 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 20_25" cx="829.6" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 829.6 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 21_25" cx="812.8" cy="686.401" rx="2.4" ry="2.4" transform="rotate(-180 812.8 686.401)" fill="#171717"/>
+<ellipse id="Ellipse 13_26" cx="947.2" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 947.2 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 14_26" cx="930.4" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 930.4 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 15_26" cx="913.6" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 913.6 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 16_26" cx="896.8" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 896.8 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 17_26" cx="880" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 880 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 18_26" cx="863.2" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 863.2 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 19_26" cx="846.4" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 846.4 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 20_26" cx="829.6" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 829.6 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 21_26" cx="812.8" cy="669.6" rx="2.4" ry="2.4" transform="rotate(-180 812.8 669.6)" fill="#171717"/>
+<ellipse id="Ellipse 13_27" cx="947.2" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 947.2 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 14_27" cx="930.4" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 930.4 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 15_27" cx="913.6" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 913.6 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 16_27" cx="896.8" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 896.8 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 17_27" cx="880" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 880 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 18_27" cx="863.2" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 863.2 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 19_27" cx="846.4" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 846.4 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 20_27" cx="829.6" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 829.6 652.8)" fill="#171717"/>
+<ellipse id="Ellipse 21_27" cx="812.8" cy="652.8" rx="2.4" ry="2.4" transform="rotate(-180 812.8 652.8)" fill="#171717"/>
+</g>
+</g>
+<g id="46">
+<rect id="Rectangle 6_36" width="160" height="160" transform="matrix(0 1 1 0 320 640)" fill="#171717"/>
+<rect id="Rectangle 7_6" width="79.9999" height="160" transform="matrix(0 1 1 0 320 640)" fill="#171717"/>
+<rect id="Rectangle 8_7" width="79.9999" height="160" transform="matrix(0 1 1 0 320 640)" fill="#171717"/>
+</g>
+<g id="47">
+<rect id="Rectangle 6_37" width="160" height="160" transform="matrix(0 1 1 0 480 640)" fill="#313131"/>
+<rect id="Rectangle 7_7" width="40" height="40" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 560 747.999)" fill="#797979"/>
+</g>
+<g id="48">
+<g id="Group 7_14">
+<rect id="Rectangle 6_38" y="800" width="160" height="160" transform="rotate(-90 0 800)" fill="#313131"/>
+</g>
+<path id="Ellipse 12_14" d="M-1.45912e-05 800C-1.45912e-05 778.989 4.1385 758.183 12.1793 738.771C20.22 719.359 32.0055 701.72 46.8629 686.863C61.7203 672.006 79.3585 660.22 98.7706 652.179C118.183 644.139 138.988 640 160 640L160 800H-1.45912e-05Z" fill="#171717"/>
+</g>
+<g id="5">
+<rect id="Rectangle 6_39" width="160" height="160" transform="matrix(0 1 1 0 640 480)" fill="#797979"/>
+<ellipse id="Ellipse 7_6" cx="720.005" cy="560" rx="40" ry="40" transform="rotate(180 720.005 560)" fill="#9D9D9D"/>
+</g>
+<g id="13">
+<rect id="Rectangle 6_40" width="160" height="160" transform="matrix(0 1 1 0 800 320)" fill="#797979"/>
+<ellipse id="Ellipse 7_7" cx="880" cy="399.999" rx="40" ry="40" transform="rotate(180 880 399.999)" fill="#171717"/>
+</g>
+</g>
+</g>
+</svg>
