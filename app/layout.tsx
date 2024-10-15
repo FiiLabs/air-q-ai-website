@@ -44,7 +44,7 @@ export default function RootLayout({
               className="mt-5 flex items-center gap-2">
               <Mail className="h-auto w-5 text-white md:w-10" />
               <p className="text-sm font-normal text-white lg:text-lg xl:text-xl">
-                contact@publicai.io
+                jordan9ren8@gmail.com
               </p>
             </a>
           </div>
