@@ -1,8 +1,9 @@
-import Logo from '@/assets/svg/header-logo.svg?react';
-import { cn } from '@/utils';
 import Link from 'next/link';
 
-interface HeaderProps extends React.ComponentProps<'header'> {}
+import Logo from '@/assets/svg/header-logo.svg?react';
+import { cn } from '@/utils';
+
+interface HeaderProps extends React.ComponentProps<'header'> { }
 
 const Header = (props: HeaderProps) => {
   const { className, ...rest } = props;

@@ -1,21 +1,20 @@
 import { StaticImport } from 'next/dist/shared/lib/get-img-props';
 import Image from 'next/image';
 
+import { Preview } from '@/app/sections/preview';
+import modelDetail from '@/assets/image/model-detail.png';
+import AppStore from '@/assets/svg/app-store.svg?react';
 import canUse1 from '@/assets/svg/can-use-1.svg';
 import canUse2 from '@/assets/svg/can-use-2.svg';
 import canUse3 from '@/assets/svg/can-use-3.svg';
 import canUse4 from '@/assets/svg/can-use-4.svg';
 import canUse5 from '@/assets/svg/can-use-5.svg';
-import modelDetail from '@/assets/image/model-detail.png';
-import AppStore from '@/assets/svg/app-store.svg?react';
 import GooglePlay from '@/assets/svg/google-play.svg?react';
 import IndexClassification from '@/assets/svg/index-classification.svg?react';
 import Icon from '@/assets/svg/logo.svg?react';
 import OutstandingAccuracy from '@/assets/svg/outstanding-accuracy.svg?react';
 import Technology from '@/assets/svg/technology.svg?react';
 import { cn } from '@/utils';
-
-import { Preview } from '@/app/sections/preview';
 
 const headline1 = cn('text-3xl xl:text-4xl');
 const headline2 = cn('text-2xl xl:text-3xl');

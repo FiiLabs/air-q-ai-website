@@ -5,14 +5,14 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 import Image from 'next/image';
-import { Mousewheel, Navigation, Pagination, Autoplay } from 'swiper/modules';
+import { Autoplay, Mousewheel, Navigation, Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 import Preview1 from '@/assets/image/preview-1.png';
 import Preview2 from '@/assets/image/preview-2.png';
 import { cn } from '@/utils';
 
-interface PreviewProps extends React.ComponentProps<'section'> {}
+interface PreviewProps extends React.ComponentProps<'section'> { }
 
 const Preview = (props: PreviewProps) => {
   const { className, ...rest } = props;
