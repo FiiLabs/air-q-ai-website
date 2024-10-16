@@ -12,7 +12,7 @@ import Preview1 from '@/assets/image/preview-1.png';
 import Preview2 from '@/assets/image/preview-2.png';
 import { cn } from '@/utils';
 
-interface PreviewProps extends React.ComponentProps<'section'> { }
+interface PreviewProps extends React.ComponentProps<'section'> {}
 
 const Preview = (props: PreviewProps) => {
   const { className, ...rest } = props;

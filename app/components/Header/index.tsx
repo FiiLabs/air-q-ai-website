@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Logo from '@/assets/svg/header-logo.svg?react';
 import { cn } from '@/utils';
 
-interface HeaderProps extends React.ComponentProps<'header'> { }
+interface HeaderProps extends React.ComponentProps<'header'> {}
 
 const Header = (props: HeaderProps) => {
   const { className, ...rest } = props;
@@ -23,7 +23,7 @@ const Header = (props: HeaderProps) => {
       <a
         href="docs.pdf"
         role="button"
-        className="rounded-lg bg-white px-6 py-2 text-black md:px-10 md:py-4 xl:px-12">
+        className="rounded-lg bg-white px-4 py-2 text-black md:px-8 md:py-3 xl:px-10">
         Docs
       </a>
     </header>
