@@ -9,7 +9,7 @@ import canUse2 from '@/assets/svg/can-use-2.svg';
 import canUse3 from '@/assets/svg/can-use-3.svg';
 import canUse4 from '@/assets/svg/can-use-4.svg';
 import canUse5 from '@/assets/svg/can-use-5.svg';
-import GooglePlay from '@/assets/svg/google-play.svg?react';
+import DownloadApk from '@/assets/svg/download-apk.svg?react';
 import IndexClassification from '@/assets/svg/index-classification.svg?react';
 import Icon from '@/assets/svg/logo.svg?react';
 import OutstandingAccuracy from '@/assets/svg/outstanding-accuracy.svg?react';
@@ -47,7 +47,7 @@ export default function Home() {
             <AppStore className="h-10 w-auto md:h-14" />
           </a>
           <a href="airQ_ai.apk">
-            <GooglePlay className="h-10 w-auto md:h-14" />
+            <DownloadApk className="h-10 w-auto md:h-14" />
           </a>
         </div>
       </section>
