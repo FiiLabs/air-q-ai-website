@@ -40,7 +40,7 @@ export default function RootLayout({
               Contact us
             </h3>
             <a
-              href="mailto:"
+              href="mailto:jordan9ren8@gmail.com"
               className="mt-5 flex items-center gap-2">
               <Mail className="h-auto w-5 text-white md:w-10" />
               <p className="text-sm font-normal text-white lg:text-lg xl:text-xl">
@@ -48,6 +48,10 @@ export default function RootLayout({
               </p>
             </a>
           </div>
+          <span className="mt-5 flex items-center justify-center text-sm text-white md:text-base">
+            © {new Date().getFullYear()} MetaBlock US Limited All Rights
+            Reserved
+          </span>
         </footer>
       </body>
     </html>
